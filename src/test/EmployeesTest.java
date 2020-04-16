@@ -1,9 +1,14 @@
 package test;
-
 import domain.*;
-
+/**
+ * класс EmployeesTest
+ * @author admin
+ */
 public class EmployeesTest {
-
+    /**
+     * метод Main
+     * @param args 
+     */
     public static void main(String args[]) {
 
         String[] skills = {"Microsoft Word", "TeX", "OpenOffice", "Markdown"};
